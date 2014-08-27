@@ -1,6 +1,8 @@
 
 /*
- * prily ikachan
+ * ikachan (by studiopixel : http://studiopixel.sakura.ne.jp/)
+ * 
+ * please execute in http://wavepot.com/
  */
 
 //note_data
